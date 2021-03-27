@@ -1,0 +1,14 @@
+[
+  {"symbol":"BTCUSDT","base":"BTC","quote":"USDT","name":"Bitcoin"},
+  {"symbol":"BTCBRL","base":"BTC","quote":"BRL","name":"Bitcoin"},
+  {"symbol":"BTCBUSD","base":"BTC","quote":"BUSD","name":"Bitcoin"},
+  {"symbol":"ETHBRL","base":"ETH","quote":"BRL","name":"Ethereum"},
+  {"symbol":"ETHBTC","base":"ETH","quote":"BTC","name":"Ethereum"},
+  {"symbol":"ETHBUSD","base":"ETH","quote":"BUSD","name":"Ethereum"},
+  {"symbol":"CHZBRL","base":"CHZ","quote":"BRL","name":"Chiliz"},
+  {"symbol":"CHZBUSD","base":"CHZ","quote":"BUSD","name":"Chiliz"},
+  {"symbol":"ADABUSD","base":"ADA","quote":"BUSD","name":"Cardano"},
+  {"symbol":"IQBUSD","base":"IQ","quote":"BUSD","name":"Everipedia"},
+  {"symbol":"IOTXUSDT","base":"IOTX","quote":"USDT","name":"IoTeX"},
+  {"symbol":"ONEBUSD","base":"ONE","quote":"BUSD","name":"Harmony"}
+]
